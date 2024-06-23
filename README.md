@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Christopher (Chris) Cannon (@chris-cannon90)
+- 👋 Hi, I’m Christopher (Chris) Cannon @chris-cannon90
 - 🌱 I came across Streamlit in June of 2023 and have been using it nearly weekly (for personal and professional reasons) ever since.  I first built a Streamlit app that enabled users to deploy an architecture to Snowflake using the Streamlit GUI (under the hood it used Terraform).  I've also built apps for data analytics (both past analysis as well as forecasting future values), data ingestion, and more!
